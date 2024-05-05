@@ -1,0 +1,15 @@
+add_library(data_structures
+bitset/bitset.c
+bitset/bitset.h
+        ordered_set/ordered_set.c
+        ordered_set/ordered_set.h
+        unordered_set/unordered_set.c
+        unordered_set/unordered_set.h
+        vector/vector.h
+        vector/vector.c
+        vector/vectorVoid.h
+        vector/vectorVoid.c
+        matrix/matrix.h
+        matrix/matrix.c
+        ../algorithms/for_dm/for_dm.h
+)
