@@ -1,0 +1,2 @@
+C:\Users\LOUANG~1\DOWNLO~1\CLION2~1.2\bin\mingw\bin\ar.exe qc libdata_structures.a CMakeFiles/data_structures.dir/bitset/bitset.c.obj CMakeFiles/data_structures.dir/ordered_set/ordered_set.c.obj CMakeFiles/data_structures.dir/unordered_set/unordered_set.c.obj CMakeFiles/data_structures.dir/vector/vector.c.obj CMakeFiles/data_structures.dir/vector/vectorVoid.c.obj CMakeFiles/data_structures.dir/matrix/matrix.c.obj
+C:\Users\LOUANG~1\DOWNLO~1\CLION2~1.2\bin\mingw\bin\ranlib.exe libdata_structures.a

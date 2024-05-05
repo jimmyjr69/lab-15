@@ -1,0 +1,2 @@
+C:\Users\LOUANG~1\DOWNLO~1\CLION2~1.2\bin\mingw\bin\ar.exe qc libalgorithms.a CMakeFiles/algorithms.dir/algorithm.c.obj CMakeFiles/algorithms.dir/array/array.c.obj CMakeFiles/algorithms.dir/for_dm/for_dm.c.obj
+C:\Users\LOUANG~1\DOWNLO~1\CLION2~1.2\bin\mingw\bin\ranlib.exe libalgorithms.a
